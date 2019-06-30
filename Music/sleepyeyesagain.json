@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "sleepyeyesagain",
+
+	// Music file
+	"file_name": "sleepyeyesagain.ogg",
+
+	// Music information
+	"name": "sleepy eyes again",
+	"album": "",
+	"author": "the quick brown fox",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 167.5 }
+	]
+}

@@ -1,0 +1,23 @@
+{
+	// Music data id
+	"id": "metaltronika2",
+
+	// Music file
+	"file_name": "metaltronika2.ogg",
+
+	// Music information
+	"name": "metaltronika",
+	"album": "Midnight",
+	"author": "The Enigma TNG",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 22 },
+		{ "time": 75 },
+		{ "time": 203 },
+		{ "time": 220 }
+		{ "time": 297 }
+		{ "time": 369 }
+	]
+}

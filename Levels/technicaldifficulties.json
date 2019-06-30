@@ -1,0 +1,49 @@
+{
+	// Level information
+	"id": "technicaldifficulties",
+	"name": "Technical Difficulties",
+	"description": "what could possibly go wrong?",
+	"author": "Quantum and Mrsuperjolly",
+	"menu_priority": 10.7,
+	"selectable": true,
+	
+	// Style
+	"style_id": "technicaldifficulties",
+	
+	// Music
+	"music_id": "technicaldifficulties",
+	
+	// Lua
+	"lua_file": "defaultLevels/technicaldifficulties.lua",
+	
+	// Difficulty multipliers
+	"difficulty_multipliers": [0.98, 0.99, 1.01, 1.02],
+	
+	// Basic values
+	"speed_multiplier": 3.0,
+	"speed_increment": 0.05,	
+	"rotation_speed": 0.1,
+	"rotation_increment": 0.05,
+	"delay_multiplier": 1.1,
+	"delay_increment": -0.01,
+	"fast_spin": 50,
+	"sides": 6,
+	"sides_min": 6,
+	"sides_max": 6,
+	"increment_time": 100000,
+	"rotation_speed_max": 5,
+	
+	"pulse_min": 50,
+	"pulse_max": 90,
+	"pulse_speed": 5, //0.5
+	"pulse_speed_r": 5, //25
+	"pulse_delay_max": 0.5,	
+	
+	"beatpulse_max": 20,
+	"beatpulse_delay_max": 25,
+	
+	// Events
+	"events":
+	[
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"id": "blacknwhite",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "blacknwhite" }
+	]
+}

@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "vaevictis",
+
+	// Music file
+	"file_name": "vaevictis.ogg",
+
+	// Music information
+	"name": "Vae Victis",
+	"album": "",
+	"author": "thesecession",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 3.8 }
+	]
+}

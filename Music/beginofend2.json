@@ -1,0 +1,20 @@
+{
+	// Music data id
+	"id": "beginofend2",
+
+	// Music file
+	"file_name": "beginofend2.ogg",
+
+	// Music information
+	"name": "Beginning of the End (1999 Ltd edition EP)",
+	"album": "Beta Cessions: Demos and Rarities",
+	"author": "celldweller",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 30 },
+		{ "time": 47 },
+		{ "time": 205 }
+	]
+}

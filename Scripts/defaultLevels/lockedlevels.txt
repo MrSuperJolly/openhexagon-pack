@@ -1,0 +1,8 @@
+red true true
+orange true true
+yellow true true
+green true true
+blue true true
+indigo true true
+violet true true
+ultraviolet true false

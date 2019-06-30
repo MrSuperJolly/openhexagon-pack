@@ -1,0 +1,20 @@
+{
+	// Music data id
+	"id": "lastdaze",
+
+	// Music file
+	"file_name": "lastdaze.ogg",
+
+	// Music information
+	"name": "Last Daze (Funland Mix)",
+	"album": "",
+	"author": "The Birthday Massacre (cover of Left Spine Down)",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 55 },
+		{ "time": 130 },
+		{ "time": 159 }
+	]
+}

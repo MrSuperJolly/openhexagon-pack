@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "goodluck",
+
+	// Music file
+	"file_name": "goodluck.ogg",
+
+	// Music information
+	"name": "Good L_ck, Yo_'re F_cked",
+	"album": "End of an Empire",
+	"author": "Celldweller",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 64 }
+	]
+}

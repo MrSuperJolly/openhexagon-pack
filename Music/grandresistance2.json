@@ -1,0 +1,21 @@
+{
+	// Music data id
+	"id": "grandresistance2",
+
+	// Music file
+	"file_name": "grandresistance2.ogg",
+
+	// Music information
+	"name": "grand design resistance",
+	"album": "",
+	"author": "3FORCE",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 247 },
+		{ "time": 110 },
+		{ "time": 187 },
+		{ "time": 25.5 }
+	]
+}

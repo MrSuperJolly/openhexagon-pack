@@ -1,0 +1,22 @@
+{
+	// Music data id
+	"id": "pulse_power2",
+
+	// Music file
+	"file_name": "pulse_power2.ogg",
+
+	// Music information
+	"name": "pulse power",
+	"album": "",
+	"author": "Dynatron",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 180 },
+		{ "time": 120 },
+		{ "time": 0 },
+		{ "time": 240 }
+		{ "time": 60 },
+	]
+}

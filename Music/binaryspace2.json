@@ -1,0 +1,21 @@
+{
+	// Music data id
+	"id": "binaryspace2",
+
+	// Music file
+	"file_name": "binaryspace2.ogg",
+
+	// Music information
+	"name": "Binary Space",
+	"album": "Complier Optimisation Techniques",
+	"author": "The Algorithm",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 264 },
+		{ "time": 75 },
+		{ "time": 150 },
+		{ "time": 26 }
+	]
+}

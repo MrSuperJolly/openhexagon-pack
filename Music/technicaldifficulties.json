@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "technicaldifficulties",
+
+	// Music file
+	"file_name": "technicaldifficulties.ogg",
+
+	// Music information
+	"name": "happy tree friends intro theme",
+	"album": "",
+	"author": "Happy Tree Friends",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 0 }
+	]
+}

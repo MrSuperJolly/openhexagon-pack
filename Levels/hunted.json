@@ -1,0 +1,49 @@
+{
+	// Level information
+	"id": "hunted",
+	"name": "Hunted",
+	"description": "You are being hunted\nhow far can you run?",
+	"author": "Quantum",
+	"menu_priority": 10.8,
+	"selectable": true,
+	
+	// Style
+	"style_id": "hunted",
+	
+	// Music
+	"music_id": "vaevictis",
+	
+	// Lua
+	"lua_file": "defaultLevels/hunted.lua",
+	
+	// Difficulty multipliers
+	"difficulty_multipliers": [0.5, 0.75, 1.25, 1.5],
+	
+	// Basic values
+	"speed_multiplier": 2.0,
+	"speed_increment": 0.2,	
+	"rotation_speed": 0,
+	"rotation_increment": 0.2,
+	"delay_multiplier": 1.1,
+	"delay_increment": -0.01,
+	"fast_spin": 0,
+	"sides": 6,
+	"sides_min": 6,
+	"sides_max": 6,
+	"increment_time": 10000000,
+	"rotation_speed_max": 5,
+	
+	"pulse_min": 90,
+	"pulse_max": 120,
+	"pulse_speed": 1.2,
+	"pulse_speed_r": 1,
+	"pulse_delay_max": 0.5,	
+	
+	"beatpulse_max": 20,
+	"beatpulse_delay_max": 25,
+	
+	// Events
+	"events":
+	[
+	]
+}

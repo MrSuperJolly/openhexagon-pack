@@ -1,0 +1,40 @@
+{
+	// Style data id
+	"id": "hunted",
+
+	// Hue options
+	"hue_min": 120,
+	"hue_max": 240,
+	"hue_ping_pong": true,
+	"hue_increment": 0.1,
+	
+	// Pulse options
+	"pulse_min": 0.1,
+	"pulse_max": 0.1,
+	"pulse_increment": 0.01,
+
+	// 3D options
+	"3D_depth": 5,
+	"3D_skew": 1,
+	"3D_spacing": 1.49,
+	"3D_darken_multiplier": 0.1,
+	"3D_alpha_multiplier": 0.0,
+	"3D_alpha_falloff": 30, 
+	"3D_pulse_min": 0.15,
+	"3D_pulse_max": 0.3,
+	"3D_pulse_speed": 0.002,
+	
+	// Main color
+	"main": { "main": true, "dynamic": false, "value": [255, 255, 255, 255], "pulse": [0,0,0,0] },
+
+	// Background colors
+	"colors":
+	[
+		{ "dynamic": false, "dynamic_offset": false, "dynamic_darkness": 1, "value": [170, 10, 250, 195], "pulse": [150, 10, 250, 70]},
+		{ "dynamic": false, "dynamic_offset": false, "dynamic_darkness": 1, "value": [150, 10, 250, 195], "pulse": [150, 10, 250, 70]},
+		{ "dynamic": false, "dynamic_offset": false, "dynamic_darkness": 1, "value": [170, 10, 250, 195], "pulse": [150, 10, 250, 70]},
+		{ "dynamic": false, "dynamic_offset": false, "dynamic_darkness": 1, "value": [150, 10, 250, 195], "pulse": [150, 10, 250, 70]},
+		{ "dynamic": false, "dynamic_offset": false, "dynamic_darkness": 1, "value": [170, 10, 250, 195], "pulse": [150, 10, 250, 70]},
+		{ "dynamic": false, "dynamic_offset": false, "dynamic_darkness": 1, "value": [150, 10, 250, 195], "pulse": [150, 10, 250, 70]}
+	]
+}

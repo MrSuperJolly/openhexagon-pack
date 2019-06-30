@@ -1,0 +1,53 @@
+{
+	// Level information
+	"id": "rubbertree",
+	"name": "Rubber tree",
+	"description": "can you beat the game?",
+	"author": "Quantum and MrSuperjolly",
+	"menu_priority": 10.3,
+	"selectable": true,
+	
+	// Style
+	"style_id": "blacknwhite",
+	
+	// Music
+	"music_id": "silence2",
+	
+	// Lua
+	"lua_file": "defaultLevels/rubbertree.lua",
+	
+	// Difficulty multipliers
+	"difficulty_multipliers": [],
+	
+	// Basic values
+	"speed_multiplier": 0,
+	"speed_increment": 0,	
+	"rotation_speed": 0.07,
+	"rotation_increment": 0.04,
+	"delay_multiplier": 1.00,
+	"delay_increment": -0.01,
+	"fast_spin": 0.00,
+	"sides": 6,
+	"sides_min": 5,
+	"sides_max": 6,
+	"increment_time": 100000000,
+	"rotation_speed_max": 10000,
+	"wall_skew_left": 0,
+	"wall_skew_right": 0,
+	"wall_angle_left": 0,
+	"wall_angle_right": 0,
+	
+	"pulse_min": 90,
+	"pulse_max": 120,
+	"pulse_speed": 0.5,
+	"pulse_speed_r": 25,
+	//"pulse_delay_max": 30,
+	
+	"beatpulse_max": 10,
+	"beatpulse_delay_max": 100,
+	
+	// Events
+	"events":
+	[
+	]
+}

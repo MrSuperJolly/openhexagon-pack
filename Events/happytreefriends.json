@@ -1,0 +1,8 @@
+{
+	"id": "happytreefriends",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "technicaldifficulties" }
+	]
+}

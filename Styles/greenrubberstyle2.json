@@ -1,0 +1,34 @@
+{
+	// Style data id
+	"id": "greenrubberstyle2",
+
+	// Hue options
+	"hue_min": 120,
+	"hue_max": 120,
+	"hue_ping_pong": true,
+	"hue_increment": 1.2,
+	
+	// Pulse options
+	"pulse_min": 0.0,
+	"pulse_max": 3.7,
+	"pulse_increment": 2.2,
+
+	// 3D options
+	"3D_depth": 4,
+	"3D_skew": 0.15,
+	"3D_spacing": 1.5,
+
+	// Main color
+	"main": { "main": true, "dynamic": true, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255] },
+
+	// Background colors
+	"colors":
+	[
+		{ "dynamic": true, "dynamic_offset": true, "dynamic_darkness": 1.0, "value": [0, 0, 0, 255], "pulse": [0, 3, 0, 255]},
+		{ "dynamic": true, "dynamic_offset": true, "dynamic_darkness": 1.0, "value": [5, 5, 5, 255], "pulse": [5, 8, 5, 255]},
+		{ "dynamic": true, "dynamic_offset": true, "dynamic_darkness": 1.0, "value": [10, 10, 10, 255], "pulse": [10, 13, 10, 255]},
+		{ "dynamic": true, "dynamic_offset": true, "dynamic_darkness": 1.0, "value": [10, 10, 10, 255], "pulse": [10, 13, 10, 255]},
+		{ "dynamic": true, "dynamic_offset": true, "dynamic_darkness": 1.0, "value": [5, 5, 5, 255], "pulse": [5, 8, 5, 255]},
+		{ "dynamic": true, "dynamic_offset": true, "dynamic_darkness": 1.0, "value": [0, 0, 0, 255], "pulse": [0, 3, 0, 255]}
+	]
+}

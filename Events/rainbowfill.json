@@ -1,0 +1,8 @@
+{
+	"id": "rainbowfill",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set",  "id": "rainbowfill" }
+	]
+}

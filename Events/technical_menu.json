@@ -1,0 +1,9 @@
+{
+		
+	"id": "technical_menu",
+
+	"events":
+	[
+		{ "time": 0, 	"type": "menu"}
+	]
+}

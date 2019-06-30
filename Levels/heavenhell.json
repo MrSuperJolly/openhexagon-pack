@@ -1,0 +1,49 @@
+{
+	// Level information
+	"id": "heavenhell",
+	"name": "Heaven and Hell",
+	"description": "Heaven isn't always the best choice...",
+	"author": "Quantum and Mrsuperjolly",
+	"menu_priority": 15.1,
+	"selectable": true,
+	
+	// Style
+	"style_id": "hell",
+	
+	// Music
+	"music_id": "lastdaze",
+	
+	// Lua
+	"lua_file": "defaultLevels/heavenhell.lua",
+	
+	// Difficulty multipliers
+	"difficulty_multipliers": [0.5, 0.75, 1.25, 1.5, 1.75],
+	
+	// Basic values
+	"speed_multiplier": 2.0,
+	"speed_increment": 0.0,	
+	"rotation_speed": 0.4,
+	"rotation_increment": 0.0,
+	"delay_multiplier": 1.1,
+	"delay_increment": -0.01,
+	"fast_spin": 0,
+	"sides": 6,
+	"sides_min": 6,
+	"sides_max": 6,
+	"increment_time": 15,
+	"rotation_speed_max": 5,
+	
+	"pulse_min": 90,
+	"pulse_max": 120,
+	"pulse_speed": 1.2,
+	"pulse_speed_r": 1,
+	"pulse_delay_max": 0.5,	
+	
+	"beatpulse_max": 20,
+	"beatpulse_delay_max": 25,
+	
+	// Events
+	"events":
+	[
+	]
+}

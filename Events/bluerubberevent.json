@@ -1,0 +1,9 @@
+{
+	"id": "bluerubberevent",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "bluerubberstyle2" },
+		{ "time": 0, "type": "music_set", "id": "metaltronika2" }
+	]
+}

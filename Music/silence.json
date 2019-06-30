@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "silence",
+
+	// Music file
+	"file_name": "silence.ogg",
+
+	// Music information
+	"name": "Legend of the Keeper",
+	"album": "",
+	"author": "Magic Sword (F.O.O.L Mix)",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 0 }
+	]
+}

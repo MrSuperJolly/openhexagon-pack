@@ -1,0 +1,9 @@
+{
+	"id": "redrubberevent",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "redrubberstyle2" },
+		{ "time": 0, "type": "music_set", "id": "pulse_power2" }
+	]
+}

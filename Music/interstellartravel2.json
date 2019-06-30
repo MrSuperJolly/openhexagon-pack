@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "interstellartravel2",
+
+	// Music file
+	"file_name": "interstellartravel2.ogg",
+
+	// Music information
+	"name": "Interstellar Travel",
+	"album": "",
+	"author": "USAO",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 68 }
+	]
+}

@@ -1,0 +1,19 @@
+{
+	// Music data id
+	"id": "reconfig2",
+
+	// Music file
+	"file_name": "reconfig2.ogg",
+
+	// Music information
+	"name": "reconfig",
+	"album": "",
+	"author": "shortwire",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 50 },
+		{ "time": 120 }
+	]
+}

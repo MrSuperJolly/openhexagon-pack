@@ -1,0 +1,19 @@
+{
+	// Music data id
+	"id": "razorsharpvip",
+
+	// Music file
+	"file_name": "razorsharpvip.ogg",
+
+	// Music information
+	"name": "Razor Sharp VIP",
+	"album": "",
+	"author": "Pedboard Nerds & Tristam",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 46 }
+	//it wont get any closer to the drop with this dodgy timer...
+	]
+}

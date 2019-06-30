@@ -1,0 +1,8 @@
+{
+	"id": "patternwipe",
+
+	"events":
+	[
+		{ "time": 0, "type": "timeline_clear" }
+	]
+}

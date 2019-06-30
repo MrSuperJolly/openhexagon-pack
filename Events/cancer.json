@@ -1,0 +1,8 @@
+{
+	"id": "cancer",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "cancer" }
+	]
+}

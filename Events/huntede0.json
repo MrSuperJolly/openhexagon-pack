@@ -1,0 +1,9 @@
+{
+	"id": "huntede0",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "hunted0" },
+		{ "time": 0, "type": "timeline_clear" }
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"id": "heaven",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "heaven" }
+	]
+}

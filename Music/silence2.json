@@ -1,0 +1,18 @@
+{
+	// Music data id
+	"id": "silence2",
+
+	// Music file
+	"file_name": "silence2.ogg",
+
+	// Music information
+	"name": "Who Knows?",
+	"album": "",
+	"author": "???",
+	
+	// Segments
+	"segments":
+	[
+		{ "time": 0 }
+	]
+}

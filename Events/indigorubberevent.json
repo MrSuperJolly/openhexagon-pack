@@ -1,0 +1,9 @@
+{
+	"id": "indigorubberevent",
+
+	"events":
+	[
+		{ "time": 0, "type": "style_set", "id": "indigorubberstyle2" },
+		{ "time": 0, "type": "music_set", "id": "binaryspace2" }
+	]
+}

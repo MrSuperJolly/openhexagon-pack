@@ -1,0 +1,9 @@
+{
+	"id": "legendkeeperbegin",
+
+	"events":
+	[
+		//{ "time": 0, "type": "music_set_seconds", "id": "legendkeeperfool", "seconds": 0.2 }
+		{ "time": 0, "type": "music_set", "id": "legendkeeperfool" }
+	]
+}
